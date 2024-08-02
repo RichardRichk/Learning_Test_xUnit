@@ -1,0 +1,15 @@
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\bin\Debug\net8.0\TempConversion.exe
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\bin\Debug\net8.0\TempConversion.deps.json
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\bin\Debug\net8.0\TempConversion.runtimeconfig.json
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\bin\Debug\net8.0\TempConversion.dll
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\bin\Debug\net8.0\TempConversion.pdb
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\obj\Debug\net8.0\TempConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\obj\Debug\net8.0\TempConversion.AssemblyInfoInputs.cache
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\obj\Debug\net8.0\TempConversion.AssemblyInfo.cs
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\obj\Debug\net8.0\TempConversion.csproj.CoreCompileInputs.cache
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\obj\Debug\net8.0\TempConversion.sourcelink.json
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\obj\Debug\net8.0\TempConversion.dll
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\obj\Debug\net8.0\refint\TempConversion.dll
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\obj\Debug\net8.0\TempConversion.pdb
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\obj\Debug\net8.0\TempConversion.genruntimeconfig.cache
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\TempCode\TempConversion\obj\Debug\net8.0\ref\TempConversion.dll

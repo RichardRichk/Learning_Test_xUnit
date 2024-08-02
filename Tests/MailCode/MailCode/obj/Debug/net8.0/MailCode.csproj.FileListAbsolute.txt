@@ -1,0 +1,15 @@
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\bin\Debug\net8.0\MailCode.exe
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\bin\Debug\net8.0\MailCode.deps.json
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\bin\Debug\net8.0\MailCode.runtimeconfig.json
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\bin\Debug\net8.0\MailCode.dll
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\bin\Debug\net8.0\MailCode.pdb
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\obj\Debug\net8.0\MailCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\obj\Debug\net8.0\MailCode.AssemblyInfoInputs.cache
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\obj\Debug\net8.0\MailCode.AssemblyInfo.cs
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\obj\Debug\net8.0\MailCode.csproj.CoreCompileInputs.cache
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\obj\Debug\net8.0\MailCode.sourcelink.json
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\obj\Debug\net8.0\MailCode.dll
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\obj\Debug\net8.0\refint\MailCode.dll
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\obj\Debug\net8.0\MailCode.pdb
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\obj\Debug\net8.0\MailCode.genruntimeconfig.cache
+C:\Users\45811737874\Desktop\Learning_Test_xUnit\Tests\MailCode\MailCode\obj\Debug\net8.0\ref\MailCode.dll

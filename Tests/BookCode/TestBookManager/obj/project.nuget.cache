@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GKlNoxdJF3EEcNLNGPXT41Tz3w4tsIVPgrZ8zpvTpLUGrIEKUIbLoB1F2sIO3hBb6Pp3wQ1aMYCMcYVVyiL0zQ==",
+  "dgSpecHash": "QJtvlzpUUalx+tnakAann+FfysQ4JKanGogeAzosTfvM5BrgqF4j1ARfpy2Y6UAqnDjPP2W87Wd5MJRHoIz/DQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\45811737874\\Desktop\\Learning_Test_xUnit\\TestBookManager\\TestBookManager.csproj",
+  "projectFilePath": "C:\\Users\\45811737874\\Desktop\\Learning_Test_xUnit\\Tests\\BookCode\\TestBookManager\\TestBookManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\45811737874\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\45811737874\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pY2qeE2/S8Pc1dXddGSI2LI++3BTFkWXs1EI1e5ndybXwpuDI9wgjQWM2ZcRRLtmeAnxscFcowfRsTRnY7fzFQ==",
+  "dgSpecHash": "KpGrO7/JuUlrTSv3E31X6dT625iFRmPnrQNsGj3LK3lF0jATTCEUkTlc+pEyWnUVl0rEx/uho+IKx0PVq5R2CA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\45811737874\\Desktop\\Learning_Test_xUnit\\Gerenciamento de livros\\Gerenciamento de livros.csproj",
+  "projectFilePath": "C:\\Users\\45811737874\\Desktop\\Learning_Test_xUnit\\Tests\\BookCode\\Gerenciamento de livros\\Gerenciamento de livros.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

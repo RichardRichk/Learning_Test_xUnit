@@ -1712,6 +1712,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "TempConversion/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TempConversion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TempConversion.dll": {}
+        }
       }
     }
   },
@@ -5507,11 +5517,17 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "TempConversion/1.0.0": {
+      "type": "project",
+      "path": "../TempConversion/TempConversion.csproj",
+      "msbuildProject": "../TempConversion/TempConversion.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.6.0",
+      "TempConversion >= 1.0.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5524,11 +5540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\45811737874\\Desktop\\Learning_Test_xUnit\\TempCode\\TestTemp\\TestTemp.csproj",
+      "projectUniqueName": "C:\\Users\\45811737874\\Desktop\\Learning_Test_xUnit\\Tests\\TempCode\\TestTemp\\TestTemp.csproj",
       "projectName": "TestTemp",
-      "projectPath": "C:\\Users\\45811737874\\Desktop\\Learning_Test_xUnit\\TempCode\\TestTemp\\TestTemp.csproj",
+      "projectPath": "C:\\Users\\45811737874\\Desktop\\Learning_Test_xUnit\\Tests\\TempCode\\TestTemp\\TestTemp.csproj",
       "packagesPath": "C:\\Users\\45811737874\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\45811737874\\Desktop\\Learning_Test_xUnit\\TempCode\\TestTemp\\obj\\",
+      "outputPath": "C:\\Users\\45811737874\\Desktop\\Learning_Test_xUnit\\Tests\\TempCode\\TestTemp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5549,7 +5565,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\45811737874\\Desktop\\Learning_Test_xUnit\\Tests\\TempCode\\TempConversion\\TempConversion.csproj": {
+              "projectPath": "C:\\Users\\45811737874\\Desktop\\Learning_Test_xUnit\\Tests\\TempCode\\TempConversion\\TempConversion.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

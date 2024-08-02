@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Gerenciamento de livros\Gerenciamento de livros.csproj" />
+  </ItemGroup>
+
 </Project>
